@@ -1,0 +1,45 @@
+nav a{
+    color: black;
+    text-decoration: none;
+}
+nav button{
+    color: white;
+    background-color: #fa7035;
+    border-radius: 4px;
+}
+nav i{
+    padding-left: 380px;
+}
+.one h1{
+    font-weight: 400;
+}
+.one h3{
+    font-weight: 400;
+    line-height: 42px;
+}
+.one a{
+    color: rgba(125, 43, 217, 1);
+    text-decoration: underline 1px;
+    text-underline-offset: 2px;
+}
+.one .btn1{
+    color: white;
+    background-color: #fa7035;
+    border: none;
+    border-radius: 4px;
+}
+.one .btn2{
+    color: white;
+    background-color: #9b51e0;
+    border: none;
+    border-radius: 4px;
+}
+.two a{
+    color: #4b3589;
+}
+.three .bg{
+    background-color: #333;
+}
+.three .purple{
+    background-color: #9b51e0;
+}
